@@ -1,7 +1,6 @@
 "Hi, call me Chef. This account is built for Stack Query scripts and source code for Store Controller support." e
--------------------------------------------- 👾 🪅 🎏
+-------------------------------------------- 
   --Query Script: T-SQL | SSMS Tools
-  --Python Selenium Script: Tool Control
   --Update Product
   --Deployment Tools
 
