@@ -1,8 +1,6 @@
-"Hi, call me Chef. This account is built for Stack Query scripts and source code for Store Controller support." e
--------------------------------------------- 
-  --Query Script: T-SQL | SSMS Tools
-  --Update Product
-  --Deployment Tools
+Hi, call me Chef. Dedicated account for Store Controller source code and database scripts.
+
+Stack: C# • Python • TS/JS • Node.js • Databases (T-SQL) • AWS • Azure • SSMS Tools
 
 
 <!---
